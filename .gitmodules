@@ -1,0 +1,3 @@
+[submodule "Plugins/TBFFToolsetPlugin"]
+	path = Plugins/TBFFToolsetPlugin
+	url = https://github.com/TB-FF/TBFFToolsetPlugin.git
