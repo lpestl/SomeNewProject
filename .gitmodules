@@ -1,0 +1,3 @@
+[submodule "Plugins/RESTApiServer"]
+	path = Plugins/RESTApiServer
+	url = https://github.com/TB-FF/RESTApiServer.git
